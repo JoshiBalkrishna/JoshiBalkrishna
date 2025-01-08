@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **balkrishnajoshi990@gmail.com**
 
+- 📄 Know more about my skills and experience from my [Resume](https://drive.google.com/file/d/17WbsYao2MlzsCGz9GlpHNq6tzaCJ4dpJ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/balkrishna-joshi-9750941b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
