@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **balkrishnajoshi990@gmail.com**
 
-- 📄 Know more about my skills and experience from my [Resume](https://drive.google.com/file/d/17WbsYao2MlzsCGz9GlpHNq6tzaCJ4dpJ/view?usp=sharing)
+- 📄 Know more about my skills and experience from my [Resume](https://drive.google.com/file/d/17WbsYao2MlzsCGzffff9GlpHNq6tzaCJ4dpJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
