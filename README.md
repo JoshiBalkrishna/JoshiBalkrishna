@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, and NLP**
 
-- 📫 How to reach me: **balkrishnajoshi990@gmail.com**
+- 📫 How to reach me: **jbalkrishna25@gmail.com**
 
 - 📄 Know more about my skills and experience from my [Resume](https://drive.google.com/file/d/17Wbfgn55s8r2Mfjnwo5e7f9GlpHNq6tzaCJ4dpJ/view?usp=sharing)
 
